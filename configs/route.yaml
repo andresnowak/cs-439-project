@@ -1,0 +1,4 @@
+# Our method: DynMuon-Route — the schedule-modulated per-layer router.
+extends: gpt124m.yaml
+routing_mode: schedule_modulated
+run_name: dynmuon_route
