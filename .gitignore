@@ -48,7 +48,4 @@ results/
 
 # Ignore the Scope of the project
 SCOPE.md
-report/*
-!report/figures/
-!report/figures/**
 notes/
